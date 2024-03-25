@@ -1,0 +1,221 @@
+
+*{
+   font-family:sans-serif;
+   margin:0; padding:0;
+   box-sizing: border-box;
+   outline: none;
+   border:none;
+   text-decoration: none;
+}
+
+img{
+   width: 100%;
+   height: 64rem;
+   object-fit: cover;
+}
+.img{
+   width: 100%;
+   
+   position: relative;
+}
+
+.form-container{
+   display: flex;
+   justify-content: center;
+   overflow: hidden;
+   margin-top: -50rem;
+}
+
+
+.form-container form{
+   padding:3rem;
+   width: 45rem;
+   height: 27rem;
+   border-radius: 5px;
+   box-shadow: 0 10px 30px rgba(0,0,0,5);
+   background: rgba(0,0,0,.50);
+   text-align: center;
+   position: absolute;
+   color: white;
+   overflow: hidden;
+}
+
+
+
+.form-container form h3{
+   font-size: 35px;
+   text-transform: uppercase;
+   margin-bottom: 15px;
+   color:darkgrey;
+}
+
+.form-container form input{
+   width: 100%;
+   padding:15px 15px;
+   font-size: 20px;
+   margin:8px 0;
+   background: rgba(0,0,0,.30);
+   color: white;
+   border-radius: 5px;
+}
+
+.form-container form .form-btn{
+   background: rgba(0,0,0,.30);
+   text-transform: capitalize;
+   font-size: 20px;
+   cursor: pointer;
+}
+
+.form-container form .form-btn:hover{
+   background: rgba(0,0,0,.50);
+   color:#fff;
+}
+
+.form-container form .dont{
+   margin-top: 10px;
+   font-size: 20px;
+   color:darkgrey;
+}
+
+.form-container form p a{
+   color:white;
+}
+
+
+
+.form-container .remfor{
+   display: flex;
+   justify-content: space-between;
+   padding-bottom: 1rem;
+   
+}
+
+.form-container .remfor .rem{
+   display: flex;
+}
+
+
+.form-container .remfor .rem input{
+   height: 1rem;
+   margin-top: .9rem;
+   cursor: pointer;
+
+}
+
+.form-container .remfor .rem p{
+   margin-top: .9rem;
+   padding-left: .5rem;
+}
+
+.form-container .remfor a{
+   margin-top: .9rem;
+   font-size: 1rem;
+   color: white;
+   cursor: pointer; 
+}
+
+
+                     /*register*/
+
+
+.form-container .regist{
+   padding:3rem;
+   width: 45rem;
+   height: 30rem;
+   border-radius: 5px;
+   box-shadow: 0 10px 30px rgba(0,0,0,5);
+   background: rgba(0,0,0,.50);
+   text-align: center;
+   position: absolute;
+   color: white;
+   overflow: hidden;
+}
+
+.form-container form .dont2{
+   margin-top: 10px;
+   font-size: 20px;
+   color:darkgrey;
+}
+
+
+.form-container .regist .rem2{
+   display: flex;
+   justify-content: center;
+}
+
+
+
+.form-container .regist .rem2 input{
+   width: 1rem;
+   cursor: pointer;
+}
+
+
+
+.form-container .regist .rem2 p{
+   padding-top: .3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
